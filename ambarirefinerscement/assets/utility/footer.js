@@ -45,7 +45,7 @@ class Footer extends HTMLElement {
                       <div class="footer-widget footer-about">
                           <h5 class="title">Contact us</h5>
                           <a href="tel: +91 96634 35276">+91 96634 35276</a> <br><br>
-                          <a href="mail:">mail</a> <br><br>
+                          <a href="mail:"> ambarirefinerscement gmail</a> <br><br>
                           <ul class="footer-social">
                               <li>
                                   <a href="#0"><i class="fab fa-facebook-f"></i></a>

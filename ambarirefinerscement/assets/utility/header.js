@@ -55,10 +55,25 @@ class Header extends HTMLElement {
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                    <a href="index.html">Product Details</a>
+                    <a href="product_details.html">Product Details</a>
                 </li>
+                <li>
+                    <a href="#0">Cement</a>
+                </li>
+                <li>
+                    <a href="#0">Cement Types</a>
+                </li>
+                <li>
+                <a href="#0">Cement Grade</a>
+            </li>
+            <li>
+            <a href="#0">Cement Test</a>
+        </li>
+        <li>
+        <a href="#0">FAQ</a>
+    </li>
                   <li>
-                        <a href="index.html">Contact Us</a>
+                        <a href="contact.html">Contact Us</a>
                     </li>
                 </ul>
                 <div class="header-bar d-lg-none">
